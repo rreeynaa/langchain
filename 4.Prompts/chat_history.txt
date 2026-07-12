@@ -1,0 +1,14 @@
+Human: Hi
+AI: Hello! How can I help you today?
+
+Human: I ordered a laptop yesterday.
+AI: Great! Could you please provide your order ID?
+
+Human: My order ID is ORD12345.
+AI: Thank you. Let me check the status of your order.
+
+Human: Has it been shipped?
+AI: Yes, your order has been shipped and is expected to arrive in 2-3 business days.
+
+Human: Thank you!
+AI: You're welcome! Let me know if you need anything else.
