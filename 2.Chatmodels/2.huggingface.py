@@ -4,7 +4,7 @@ load_dotenv()
 llm = HuggingFaceEndpoint(
     repo_id="Qwen/Qwen2.5-7B-Instruct",
     task="text-generation",
-    huggingfacehub_api_token="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" #can add to .env as well
+    huggingfacehub_api_token="xyz" #can add to .env as well
 )
 
 chat = ChatHuggingFace(llm=llm)

@@ -11,7 +11,7 @@ llm = ChatGoogleGenerativeAI(
 )
 
 # Ask a question
-response = llm.invoke("suggst 5 indian names")
+response = llm.invoke("suggest 5 indian names")
 
 # Print response
 print(response.text)
